@@ -1,0 +1,3 @@
+/.gradio
+.env
+knowledge_base.db
